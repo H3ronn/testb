@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wtf nie wiem co UWAGA
+=======
+wtf nie wiem co
+>>>>>>> dc0f50d0777c71a1dd95c091447533b4675ecb84
